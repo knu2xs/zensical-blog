@@ -1,0 +1,29 @@
+# Generated blog artifacts
+docs/.bloggen/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ruff / tools
+.ruff_cache/
+
+# Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/settings.json
